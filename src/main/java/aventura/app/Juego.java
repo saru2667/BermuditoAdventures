@@ -1,7 +1,7 @@
 package aventura.app;
 
 import java.util.Scanner;
-
+//COMENTARIO PARA QUE SEA DIFERENTE Y CREAR UNA RAMA
 /**
  * Clase principal del juego "Tu Propia Aventura".
  * Esqueleto para la Misión 1 (UD1-UD3).
